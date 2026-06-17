@@ -15,8 +15,8 @@ Ce dépôt répertorie les projets de traduction française (patchs amateurs) po
 | **Last Bible II** | Game Boy | ✅ Terminé | Terminus Traduction | [TRAF](https://traf.romhack.org/?p=patchs&pid=1195) |
 | **Persona 4 Golden** | PS Vita / PC | ✅ Terminé | Projet Golden | [TRAF](https://traf.romhack.org/?p=patchs&pid=1334) |
 | **Persona 2: Innocent Sin** | PSP | 🚧 En cours | Projet amateur | [GitHub](https://github.com/chenetulipe/P2-FR-IS-PSP) |
-| **Shin Megami Tensei IV** | 3DS | 🚧 En cours (60%) | Équipe Horologium | [Site officiel](https://horologium.neocities.org/) |
-| **Persona 2: Eternal Punishment** | PSP | 🚧 Lancé | DenshoTrad | [Annonce X](https://x.com/DenshoTrad/status/2067026649267249462) |
+| **Shin Megami Tensei IV** | 3DS | 🚧 En cours | Équipe Horologium | [Site officiel](https://horologium.neocities.org/) |
+| **Persona 2: Eternal Punishment** | PSP | 🚧 En cours | DenshoTrad | [Annonce X](https://x.com/DenshoTrad/status/2067026649267249462) |
 
 ---
 

@@ -8,8 +8,8 @@ Ce dépôt répertorie les projets de traduction française (patchs amateurs) po
 
 | Jeu | Console(s) | État | Équipe | Lien |
 | :--- | :--- | :--- | :--- | :--- |
-| **Shin Megami Tensei** | PlayStation | ✅ Terminé | Terminus Traduction | [Terminus Romhack]([https://traf.romhack.org/?p=patchs&pid=1743](https://terminus.romhack.net/projects/shinmegamitensei/)) |
-| **Majin Tensei** | Super Nintendo | ✅ Terminé | Terminus Traduction | [Terminus Romhack]([https://traf.romhack.org/?p=patchs&pid=1503](https://terminus.romhack.net/projects/majintensei/)) |
+| **Shin Megami Tensei** | PlayStation | ✅ Terminé | Terminus Traduction | [Terminus Romhack](https://terminus.romhack.net/projects/shinmegamitensei/) |
+| **Majin Tensei** | Super Nintendo | ✅ Terminé | Terminus Traduction | [Terminus Romhack](https://terminus.romhack.net/projects/majintensei/) |
 | **Last Bible** | Game Boy Color | ✅ Terminé | Terminus Traduction | [Terminus Romhack](https://terminus.romhack.net/projects/lastbible/) |
 | **Last Bible Special** | Sega Game Gear | ✅ Terminé | Terminus Traduction | [Terminus Romhack](https://terminus.romhack.net/projects/lastbible/) |
 | **Last Bible II** | Game Boy Color | ✅ Terminé | Terminus Traduction | [Terminus Romhack](https://terminus.romhack.net/projects/lastbible/) |

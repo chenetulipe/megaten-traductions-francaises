@@ -72,6 +72,14 @@ De nombreuses initiatives n'ont malheureusement jamais vu le jour à cause de li
 
 ---
 
+## Clause de Non-Responsabilité
+
+> [!WARNING]
+> **Ce répertoire est fourni à titre purement informatif.** 
+> Ce dépôt ne contient, n'héberge et ne distribue **aucun fichier de jeu protégé par le droit d'auteur (ROM, ISO, etc.)**. Il se contente de recenser des liens redirigeant vers des correctifs (patchs) créés par des fans, à appliquer sur vos propres copies légales des jeux. L'auteur de ce dépôt n'est pas affilié à Atlus, SEGA ou aux créateurs des traductions répertoriées.
+
+---
+
 ## Comment Contribuer au Répertoire ?
 
 Si vous découvrez un projet de traduction non listé ici, ou si un projet passe de "En cours" à "Terminé", votre aide est la bienvenue pour mettre à jour cette page !

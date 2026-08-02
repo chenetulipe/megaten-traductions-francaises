@@ -54,7 +54,9 @@ Voici les projets menés à bien ou actuellement en cours de développement.
 | **Persona 4 Golden** | PS Vita / PC | ✅ Terminé | Juin 2020 | 14 Fév 2021 | Projet Golden | [TRAF](https://traf.romhack.org/?p=patchs&pid=1334) |
 | **Persona 2: Innocent Sin** | PSP | 🚧 En cours | 15 Mars 2026 | 2026 (Bêta) | @chenetulipe & équipe | [GitHub](https://github.com/chenetulipe/P2-FR-IS-PSP) |
 | **Persona 2: Eternal Punishment** | PSP | 🚧 En cours | ~ Mi-2024 | - | DenshoTrad | [Annonce X](https://x.com/DenshoTrad/status/2067026649267249462) |
-| **Shin Megami Tensei IV** | 3DS | ❓ Inconnu | Oct 2022 | - | Horologium | Bloqué à 60% sans nouvelles. ([Site](https://horologium.neocities.org/) - [X/Twitter](https://x.com/SECHOROLOGIUM)) |
+| **Shin Megami Tensei IV** | 3DS | 🚧 En cours | Oct 2022 | - | Horologium | 80% ([Site](https://horologium.neocities.org/) - [X/Twitter](https://x.com/SECHOROLOGIUM)) |
+| **Persona Q** | 3DS | 🚧 En cours | N/A | - | yo_2ds | N/A% | N/A |
+
 
 ---
 
@@ -87,4 +89,4 @@ Si vous découvrez un projet de traduction non listé ici, ou si un projet passe
 1. Ouvrez une **Issue** pour nous le signaler.
 2. Ou proposez directement une **Pull Request** en modifiant le fichier `README.md`.
 
-*Dernière mise à jour : 29 Juin 2026*
+*Dernière mise à jour : 2 Août 2026*

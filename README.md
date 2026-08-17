@@ -55,7 +55,7 @@ Voici les projets menés à bien ou actuellement en cours de développement.
 | **Persona 2: Innocent Sin** | PSP | 🚧 En cours | 15 Mars 2026 | 2026 (Bêta) | @chenetulipe & équipe | [GitHub](https://github.com/chenetulipe/P2-FR-IS-PSP) |
 | **Persona 2: Eternal Punishment** | PSP | 🚧 En cours | ~ Mi-2024 | - | DenshoTrad | [Annonce X](https://x.com/DenshoTrad/status/2067026649267249462) |
 | **Shin Megami Tensei IV** | 3DS | 🚧 En cours (80%) | Oct 2022 | - | Horologium | ([Site](https://horologium.neocities.org/) - [X/Twitter](https://x.com/SECHOROLOGIUM)) |
-| **Persona Q** | 3DS | 🚧 En cours | N/A | - | yo_2ds | N/A |
+| **Persona Q** | 3DS | 🚧 En cours | N/A | - | yo_2ds | ([Site]https://yo-3ds.github.io/siteyo3ds/project-persona-q.html) |
 
 
 ---
@@ -89,4 +89,4 @@ Si vous découvrez un projet de traduction non listé ici, ou si un projet passe
 1. Ouvrez une **Issue** pour nous le signaler.
 2. Ou proposez directement une **Pull Request** en modifiant le fichier `README.md`.
 
-*Dernière mise à jour : 2 Août 2026*
+*Dernière mise à jour : 17 Août 2026*

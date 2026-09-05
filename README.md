@@ -54,9 +54,9 @@ Voici les projets menés à bien ou actuellement en cours de développement.
 | **Persona 4 Golden** | PS Vita / PC | ✅ Terminé | Juin 2020 | 14 Fév 2021 | Projet Golden | [TRAF](https://traf.romhack.org/?p=patchs&pid=1334) |
 | **Persona 2: Innocent Sin** | PSP | 🚧 En cours | 15 Mars 2026 | 2026 (Bêta) | @chenetulipe & équipe | [GitHub](https://github.com/chenetulipe/P2-FR-IS-PSP) |
 | **Persona 2: Eternal Punishment** | PSP | 🚧 En cours | ~ Mi-2024 | - | DenshoTrad | [Annonce X](https://x.com/DenshoTrad/status/2067026649267249462) |
-| **Shin Megami Tensei IV** | 3DS | 🚧 En cours (80%) | Oct 2022 | - | Horologium | ([Site](https://horologium.neocities.org/) - [X/Twitter](https://x.com/SECHOROLOGIUM)) |
-| **Persona Q** | 3DS | 🚧 En cours | N/A | - | yo_2ds | ([Site]https://yo-3ds.github.io/siteyo3ds/project-persona-q.html) |
-| **Jack Bros.** | VB | ✅ Terminé | Sep 2026 | 04 Sep 2026 | Horologium | ([Github]([https://horologium.neocities.org/](https://github.com/chenetulipe/JackBros-FR-VB)) |
+| **Shin Megami Tensei IV** | 3DS | 🚧 En cours (80%) | Oct 2022 | - | Horologium | [Site](https://horologium.neocities.org/) - [X/Twitter](https://x.com/SECHOROLOGIUM)) |
+| **Persona Q** | 3DS | 🚧 En cours | N/A | - | yo_2ds | [Site](https://yo-3ds.github.io/siteyo3ds/project-persona-q.html) |
+| **Jack Bros.** | VB | ✅ Terminé | Sep 2026 | 04 Sep 2026 | chenetulipe | [Github]([https://horologium.neocities.org/](https://github.com/chenetulipe/JackBros-FR-VB) |
 
 
 ---

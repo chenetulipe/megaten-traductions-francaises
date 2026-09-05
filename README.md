@@ -56,7 +56,7 @@ Voici les projets menés à bien ou actuellement en cours de développement.
 | **Persona 2: Eternal Punishment** | PSP | 🚧 En cours | ~ Mi-2024 | - | DenshoTrad | [Annonce X](https://x.com/DenshoTrad/status/2067026649267249462) |
 | **Shin Megami Tensei IV** | 3DS | 🚧 En cours (80%) | Oct 2022 | - | Horologium | [Site](https://horologium.neocities.org/) - [X/Twitter](https://x.com/SECHOROLOGIUM)) |
 | **Persona Q** | 3DS | 🚧 En cours | N/A | - | yo_2ds | [Site](https://yo-3ds.github.io/siteyo3ds/project-persona-q.html) |
-| **Jack Bros.** | VB | ✅ Terminé | Sep 2026 | 04 Sep 2026 | chenetulipe | [Github]([https://horologium.neocities.org/](https://github.com/chenetulipe/JackBros-FR-VB) |
+| **Jack Bros.** | VB | ✅ Terminé | Sep 2026 | 04 Sep 2026 | chenetulipe | [Github](https://github.com/chenetulipe/JackBros-FR-VB) |
 
 
 ---
